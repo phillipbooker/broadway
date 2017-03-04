@@ -2,10 +2,50 @@ html{
   text-align: center;
   font-family: Helvetica;
 }
-.top{
-  background-image: url("../images/building.jpg");
+
+p{
+  font-size: 14px;
 }
 
-.about{
-  
+.top{
+  background-image: url("../images/building.jpg");
+  color: white;
+}
+
+.top h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+.about h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.about h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.divider p{
+  background-image: url("../images/building.jpg");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.work h3, .team h3, .contact h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
